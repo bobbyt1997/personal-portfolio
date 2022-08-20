@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.239616ce.css",
+    "main.js": "/personal-portfolio/static/js/main.6fadde85.js",
+    "static/media/jdb.png": "/personal-portfolio/static/media/jdb.a008070d34d1f4b0be08.png",
+    "static/media/phutbol.png": "/personal-portfolio/static/media/phutbol.bbe875d5bc2c6591a0cf.png",
+    "static/media/me.jpg": "/personal-portfolio/static/media/me.82b1612f83e260fdb656.jpg",
+    "static/media/tonb-resume-2022.pdf": "/personal-portfolio/static/media/tonb-resume-2022.55d52a64449283f5d3ed.pdf",
+    "index.html": "/personal-portfolio/index.html",
+    "main.239616ce.css.map": "/personal-portfolio/static/css/main.239616ce.css.map",
+    "main.6fadde85.js.map": "/personal-portfolio/static/js/main.6fadde85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239616ce.css",
+    "static/js/main.6fadde85.js"
+  ]
+}
