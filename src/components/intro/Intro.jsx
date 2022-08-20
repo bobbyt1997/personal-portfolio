@@ -19,21 +19,31 @@ const Intro = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>1 year</small>
+              <h5>Industry Experience</h5>
+              <small>2 years</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>20+ Completed Projects</small>
+              <h5>Instructional/Mentoring Experience</h5>
+              <small>1 year</small>
             </article>
           </div>
-          <p>I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript, building everything from landing pages to APIs. My experience as a teacher in an international school helped me collaborate with fellow developers from all over the world. Additionally, working with kids isn’t an easy task, however, it has helped me become efficient, productive, and fast even in a very stressful environment, which is an important skill in the tech industry.</p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <p>
+            My goal has always been to become a software engineer. Although I
+            started as an Application Developer after university, I decided to
+            gain more depth of knowledge. The desire to learn culminated into my
+            attendance in a Software Engineering Immersive Bootcamp called
+            Fullstack Academy. While I still strive to be a successful engineer,
+            I am currently an instructor with a goal to inspire the next wave of
+            software engineers.
+          </p>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;
